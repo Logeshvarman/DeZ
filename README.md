@@ -1,6 +1,5 @@
 # DeZ_chatbot_Pytorch
 
-
 # Chatbot Deployment with Flask and JavaScript
 
 Chatbot [DeZ](https://github.com/Logeshvarman/DeZ_chatbot_Pytorch)  with Flask and JavaScript.
@@ -27,8 +26,8 @@ Install nltk package
 ```
 $ (DeZ) python
 >>> import nltk
->>> nltk.download('punkt')
 ```
+
 Modify `intents.json` with different intents and responses for your Chatbot
 
 Run
@@ -39,4 +38,5 @@ This will dump data.pth file. And then run
 the following command to test it in the console.
 ```
 $ (Dez) python chat.py
+
 ```
