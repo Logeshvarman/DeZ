@@ -23,10 +23,6 @@ Install dependencies
 $ (DeZ) conda install Flask torch torchvision nltk
 ```
 Install nltk package
-```
-$ (DeZ) python
->>> import nltk
-```
 
 Modify `intents.json` with different intents and responses for your Chatbot
 
