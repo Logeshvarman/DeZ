@@ -32,40 +32,28 @@
         "responses": ["Happy to help!", "Any time!", "My pleasure"]
       },
       {
-        "tag": "items",
+        "tag": "logesh",
         "patterns": [
-          "Which items do you have?",
-          "What kinds of items are there?",
-          "What do you sell?"
+          "who is logesh varman?",
+          "who is logesh varman",
+          "who is varman?",
+           "who is logesh?"
         ],
         "responses": [
-          "We sell coffee and tea",
-          "We have coffee and tea"
+          "Our back-end developer",
+          "Our back-end developer",
+          "Our back-end developer"
         ]
       },
-      {
-        "tag": "payments",
+        {
+        "tag": "avinash",
         "patterns": [
-          "Do you take credit cards?",
-          "Do you accept Mastercard?",
-          "Can I pay with Paypal?",
-          "Are you cash only?"
+          "who is avinash?",
+          "who is ami?"
         ],
         "responses": [
-          "We accept VISA, Mastercard and Paypal",
-          "We accept most major credit cards, and Paypal"
-        ]
-      },
-      {
-        "tag": "delivery",
-        "patterns": [
-          "How long does delivery take?",
-          "How long does shipping take?",
-          "When do I get my delivery?"
-        ],
-        "responses": [
-          "Delivery takes 2-4 days",
-          "Shipping takes 2-4 days"
+          "Our Logic Thinker",
+          "Our back-end developer",
         ]
       },
       {
@@ -80,7 +68,7 @@
           "What did the buffalo say when his son left for college? Bison."
         ]
       },
-      {
+        {
           "tag":"about",
           "patterns":[
             "about you?",
